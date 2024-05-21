@@ -19,7 +19,7 @@ export default function CreateTodo() {
             <span className="flex flex-row gap-x-3">
               <input type="date" className="px-2 text-blue-500 bg-transparent bg-gray-400 rounded-lg hover:bg-gray-800"/>
               <input type="time" className="px-2 text-blue-500 bg-transparent bg-gray-400 rounded-lg hover:bg-gray-800"/>
-              <button className="px-2 text-gray-500 bg-transparent  rounded-lg hover:bg-gray-800">
+              <button className="px-2 text-blue-500 bg-transparent  rounded-lg hover:bg-gray-800">
                 Assign To</button>
             </span>
             <span className="flex flex-row gap-x-3">
