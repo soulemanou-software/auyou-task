@@ -1,0 +1,18 @@
+ .glass-texture {
+            background-image: url('bg.svg'); /* Replace with your texture image URL */
+            background: size 100px;
+            background-blend-mode: cover;
+            background-position: center;
+            /* background-repeat: no-repeat; */
+
+        }
+/* bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 */
+ .content-texture {
+            background-image: url('contentbg.svg'); /* Replace with your texture image URL */
+            background-blend-mode: overlay;
+            background-position: center;
+            background-repeat: no-repeat;   
+            background-size: cover;
+            background-clip: content-box;
+
+        }
